@@ -1,2 +1,2 @@
 i am the boss
-alx is fun
+and alx is fun
